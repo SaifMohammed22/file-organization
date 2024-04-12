@@ -1,6 +1,4 @@
 # file_organization
-"Sure, here's a detailed description of the script:
-
 This Python script serves as a file organizer, streamlining the process of sorting various types of files into designated folders. It utilizes the 'os' and 'shutil' libraries for interacting with the operating system and managing file operations, respectively.
 
 Here's how it works:
@@ -23,4 +21,4 @@ Here's how it works:
 
 4. **Feedback**: Throughout the process, the script provides feedback by printing messages indicating the successful movement of files or any encountered errors.
 
-Overall, this script demonstrates the power of Python in automating routine tasks, such as file organization, thereby enhancing efficiency and productivity in daily workflows."
+Overall, this script demonstrates the power of Python in automating routine tasks, such as file organization, thereby enhancing efficiency and productivity in daily workflows.
